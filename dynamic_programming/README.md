@@ -14,7 +14,7 @@ In this section, I implement DP problems we cover in lecture, discussion session
   - [x] 6. machines A and B
 - Homework 7
   - [x] 1. maximum subarray
-  - [ ] 2. RogerGood stock investment
+  - [ ] 2. stock investment
   - [ ] 3. happiness score
   - [ ] 4. binary matrix
   - [ ] 5. sand piles
