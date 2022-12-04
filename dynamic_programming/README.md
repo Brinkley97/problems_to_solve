@@ -1,4 +1,4 @@
-2022 Fall USC CSCI-570: Analysis of Algorithms Dynamic Programming (DP) Respority
+2022 Fall USC CSCI-570: Analysis of Algorithms Dynamic Programming (DP) Respiratory
 ---
 
 In this section, I implement DP problems we cover in lecture, discussion sessions, and homework.
